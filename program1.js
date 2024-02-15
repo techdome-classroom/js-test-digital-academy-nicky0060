@@ -4,7 +4,6 @@
  */
 var isValid = function(s) {
     
-    if(s!='(||s')')
 };
 
 module.exports = { isValid };
