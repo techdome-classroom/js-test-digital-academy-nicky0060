@@ -4,7 +4,7 @@
  */
 var romanToInt = function(s) {
     
-const romanvalue =
+const romanvalues =
     { 
         I :1,
         V :5,
