@@ -29,7 +29,7 @@ const romanvalues =
        result  +=currentValues
      }  
    }
-   preValue = currentValues
+   prevalue = currentValues
  }
  return result
 };
