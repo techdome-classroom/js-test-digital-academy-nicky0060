@@ -21,6 +21,9 @@ const romanvalues =
    {
      const currentValues = romanvalues[s[i]]
      if(currentValues<prevalue)
+     {
+        result 
+     }
      
    }
  }
