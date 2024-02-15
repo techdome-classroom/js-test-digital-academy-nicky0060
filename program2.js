@@ -5,7 +5,6 @@
 var romanToInt = function(s) {
     
 
-   I=1 
 };
 
 
