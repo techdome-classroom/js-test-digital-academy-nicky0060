@@ -16,7 +16,8 @@ const romanvalue =
     }
  {
    let result = 0
-   let prevalue =  
+   let prevalue = 0
+    
  }
 };
 
