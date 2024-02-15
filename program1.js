@@ -4,7 +4,7 @@
  */
 var isValid = function(s) {
     
-    
+    sw
 };
 
 module.exports = { isValid };
