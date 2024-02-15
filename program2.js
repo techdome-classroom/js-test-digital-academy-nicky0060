@@ -15,7 +15,7 @@ const romanvalue =
         M :1000 
     }
  {
-    
+   let result = 0 
  }
 };
 
