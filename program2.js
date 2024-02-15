@@ -26,7 +26,7 @@ const romanvalues =
      }
      else
      {
-       result  
+       result  +=
      }
      
    }
