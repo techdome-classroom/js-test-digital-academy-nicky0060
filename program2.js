@@ -6,8 +6,8 @@ var romanToInt = function(s) {
     
     const romanvalue =
  {
-    I=1,
-    v=5,
+    I =1,
+    v =5,
 
  }
 };
