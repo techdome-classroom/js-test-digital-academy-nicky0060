@@ -17,7 +17,7 @@ const romanvalue =
  {
    let result = 0
    let prevalue = 0
-   for(let ) 
+   for(let i=s) 
  }
 };
 
