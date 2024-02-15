@@ -4,7 +4,7 @@
  */
 var isValid = function(s) {
     
-    if(s==i)
+    if(s==)
 };
 
 module.exports = { isValid };
