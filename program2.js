@@ -27,7 +27,8 @@ const romanvalues =
      else
      {
        result  +=currentValues
-     }  
+     }
+     prevalue = currentValues  
    }
    
  }
