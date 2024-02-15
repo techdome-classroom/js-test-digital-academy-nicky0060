@@ -20,7 +20,7 @@ const romanvalues =
    for(let i=s.length; i<= 0;i++)
    {
      const currentValues = romanvalues[s[i]]
-     if(currentValues<prevalue)
+     if(currentValues<preValue)
      {
         result -=currentValues
      }
@@ -29,7 +29,7 @@ const romanvalues =
        result  +=currentValues
      }  
    }
-   prevalue = currentValues
+   preValue = currentValues
  }
  return result
 };
